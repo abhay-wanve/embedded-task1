@@ -42,3 +42,4 @@ void loop()
     digitalWrite(LED_PIN,LOW);
   }
 }
+![Screenshot 2024-12-30 224949](https://github.com/user-attachments/assets/2c0a8e11-8c98-415b-a1b5-47cafc00d97d)
